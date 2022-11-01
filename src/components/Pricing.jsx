@@ -111,8 +111,8 @@ export function Pricing() {
             description="I believe in an all or nothing approach. Either you are interviewing or you are not. If you want a part time program, we recommend <a href="https://interviewcamp.io/">Interview Camp</a>, <a href="https://www.outco.io/">Outco</a> or <a href="https://learn.interviewkickstart.com/">Interview Kickstart</a>."
             href="https://www.youtube.com/watch?v=qy3584kvBt4"
             features={[
-              'Go big or go Home',
-              'ABC - Always Be coding',
+              'Go big or go home',
+              'ABC - Always Be Coding',
 
             ]}
           />
@@ -125,7 +125,6 @@ export function Pricing() {
             features={[
               '5-15 Problems a Day',
               '1 battle buddy will be assigned',
-              'System Design portion', 
               'Low Level and High Level System Design',
               'Resume Prep',
             ]}
