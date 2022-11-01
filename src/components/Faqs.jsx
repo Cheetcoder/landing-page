@@ -8,11 +8,11 @@ const faqs = [
     {
       question: 'What are the hours for cohort 4?',
       answer:
-        'We will meet from 7:00 AM PST to 7:00 PM PST',
+        'We will meet from 7:00 AM PST to 7:00 PM PST.',
     },
     {
       question: 'What is the first day of the cohort? ',
-      answer: 'Sunday November 13 via Zoom at 7:00 AM.',
+      answer: 'Sunday November 13 via Zoom at 7:00 AM PST.',
     },
     {
       question: 'What is the last day of the cohort? ',
@@ -47,7 +47,8 @@ const faqs = [
     {
       question: 'What programming language do I need to know?',
       answer:
-        'So far we have had people successfully complete the program using Javascript, Python, Java, Go, and Swift',
+        'So far we have had people successfully complete the program using Javascript, Python, Java, Go, and Swift.',
+
     },
     
     
