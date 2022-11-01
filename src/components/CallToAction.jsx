@@ -30,7 +30,7 @@ export function CallToAction() {
 
 This basically means I will be providing the material that we will be working on ahead of time and and it will be up to you to spend the required time to go over it it. 
 
-During our time together I will be helping groups build go through activities and discussions to help solidify the concepts learned during the day. 
+During our time together I will be helping you go through activities and discussions to help solidify the concepts learned during the day. 
           </p>
 
 
