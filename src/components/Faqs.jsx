@@ -40,15 +40,10 @@ const faqs = [
       question:
         'What is the current success rate?',
       answer:
-        'We currently do not track success and failure rates but our FAANG pass rate has been very good.',
+        'We currently do not track success and failure rates but our FAANG pass rates has been very good. The interview process is broken and I am here to show you the walkthroughs.',
     },
   ],
   [
-    {
-      question: 'What programming language do I need to know?',
-      answer:
-        'So far we have had people successfully complete the program using Javascript, Python, Java, Go, and Swift',
-    },
     {
       question: 'What programming language do I need to know?',
       answer:
