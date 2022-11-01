@@ -11,7 +11,7 @@ import screenshotReporting from '@/images/screenshots/reporting.png'
 import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 import screenshotGrokkingSolution from '@/images/screenshots/curated-solutions.png'
-import screenshotMcrd from '@/images/screenshots/mcrd.jpg'
+import screenshotPracticeDiary from '@/images/screenshots/practice-diary.png'
 
 const features = [
   {
@@ -30,7 +30,7 @@ const features = [
     title: 'Consistency',
     description:
       "We meet every day of the week for 12 hours a day.",
-    image: screenshotGrokkingSolution,
+    image: screenshotPracticeDiary,
   },
   {
     title: 'Real Bootcamp Style',
