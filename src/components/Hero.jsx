@@ -27,7 +27,7 @@ export function Hero() {
         </span>{' '}
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      Intensive live interview preperation bootcamp to help you prepare for FAANG whiteboard interviews. We meet 7 days a week for 12 hours a day. 
+      Intensive live interview preparation bootcamp to help you prepare for FAANG whiteboard interviews. We meet 7 days a week for 12 hours a day. 
       </p>
       <div className="mt-10 flex justify-center space-x-6">
         <ButtonLink href="https://docs.google.com/forms/d/13IUKfB9sJkypCWi-54Zj-htNBGBM71CVxjtfyxySSDk/">Sign Up Now</ButtonLink>
