@@ -25,9 +25,15 @@ export function CallToAction() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             Get started today
           </h2>
-          <p className="mt-4 text-lg tracking-tight text-white">
-            It’s time to take control of whiteboard interviewing
+          <p className="text-left mt-4 text-lg tracking-tight text-white">
+          We rely on reverse classroom with an emphasis on active learning. 
+
+This basically means I will be providing the material that we will be working on ahead of time and and it will be up to you to spend the required time to go over it it. 
+
+During our time together I will be helping groups build go through activities and discussions to help solidify the concepts learned during the day. 
           </p>
+
+
           <ButtonLink href="https://docs.google.com/forms/d/13IUKfB9sJkypCWi-54Zj-htNBGBM71CVxjtfyxySSDk" color="white" className="mt-10">
             Sign Up Today
           </ButtonLink>
