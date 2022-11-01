@@ -101,15 +101,14 @@ export function Pricing() {
           </p>
           <p className="mt-4 text-lg text-slate-400">
             These are strict hours without any flexibility. 
-            
-            If you want a part time program we recommend https://interviewcamp.io/ , https://www.outco.io/ or  https://learn.interviewkickstart.com/ 
+          
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Part Time"
             price="Not Available"
-            description="I believe in an all or nothing approach. Either you are interviewing or you are not. "
+            description="I believe in an all or nothing approach. Either you are interviewing or you are not. If you want a part time program, we recommend <a href="https://interviewcamp.io/">Interview Camp</a>, <a href="https://www.outco.io/">Outco</a> or <a href="https://learn.interviewkickstart.com/">Interview Kickstart</a>."
             href="https://www.youtube.com/watch?v=qy3584kvBt4"
             features={[
               'Go big or go Home',
