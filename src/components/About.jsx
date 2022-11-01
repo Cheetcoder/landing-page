@@ -26,7 +26,7 @@ export function About() {
           </p>
 
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-          We're proud to say that since we started this community, over 100 engineers have found a job they love through us. Many people who were part of our previous communities are now working at places like Amazon, Google, Bloomberg, Brex, Paypal, Spotify, and many more. 
+          We're proud to say that since we started this community, over 100 engineers have found a job they love through us. Many people who were part of our previous cohorts are now working at places like Amazon, Google, Bloomberg, Brex, Paypal, Spotify, and many more. 
           </p>
         </div>
         
