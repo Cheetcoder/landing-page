@@ -25,11 +25,7 @@ export function CallToAction() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             Get started today
           </h2>
-          <p className="text-left mt-4 text-lg tracking-tight text-white">
-          
-
-          What are you waiting for? 
-          </p>
+         
 
 
           <ButtonLink href="https://docs.google.com/forms/d/13IUKfB9sJkypCWi-54Zj-htNBGBM71CVxjtfyxySSDk" color="white" className="mt-10">
