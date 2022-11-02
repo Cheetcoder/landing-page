@@ -26,11 +26,9 @@ export function CallToAction() {
             Get started today
           </h2>
           <p className="text-left mt-4 text-lg tracking-tight text-white">
-          We rely on reverse classroom with an emphasis on active learning. 
+          
 
-This basically means I will be providing the material that we will be working on ahead of time and and it will be up to you to spend the required time to go over it it. 
-
-During our time together I will be helping you go through activities and discussions to help solidify the concepts learned during the day. 
+          What are you waiting for? 
           </p>
 
 
