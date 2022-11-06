@@ -17,7 +17,7 @@ const features = [
   {
     title: 'We are not a business',
     description:
-      "The purpose of this course is to reduce the barrier to entry for SDE jobs. We are interested in making this knowledge free.",
+      "The purpose of this course is to reduce the barrier to entry for Software Engineering jobs. ",
     image: screenshotGrokkingSolution,
   },
   {
@@ -29,15 +29,9 @@ const features = [
   {
     title: 'Consistency',
     description:
-      "We meet every day of the week for 12 hours a day.",
+      "We meet every day of the week  until YOU reach your goal.",
     image: screenshotPracticeDiary,
-  },
-  {
-    title: 'Real Bootcamp Style',
-    description:
-      ' You can pay $200 - $6,000 for an interview prep program or you can work with us free of charge.',
-    image: screenshotGrokkingSolution,
-  },
+  }
 ]
 
 export function PrimaryFeatures() {
@@ -80,10 +74,10 @@ export function PrimaryFeatures() {
             id="features-title"
             className="font-display text-3xl tracking-tight text-white sm:text-4xl md:text-5xl"
           >
-            Best in class curriculum curated by FAANG Engineers. 
+            Curriculum curated by FAANG Engineers. 
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Everything you need to recieve multiple competitive offers.
+            We are constantly looking for the best interview preperation material out there. 
           </p>
         </div>
         <Tab.Group
