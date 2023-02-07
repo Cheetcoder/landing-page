@@ -1,8 +1,36 @@
-# Cheetcodes
+<h1 align="center">Code Elevate</h1>
 
-Cheetcodes Website
+<p align="center">
+  This repository contains the original Cheetcodes website. To be repurposed for any of Cheetcoding needs. 
+</p>
 
-## Getting started
+<img src="./images/landing_cheetcodes.png" width="400" />
+
+
+---
+
+<div align="center">
+  <h3>
+    <a href="#-Quickstart">
+      Quickstart
+    </a>
+    <span> | </span>
+    <a href="#-Tech-Stack">
+      Tech stack
+    </a>
+    <span> | </span>
+    <a href="#-Tutorials">
+      Tutorials
+    </a>
+  </h3>
+</div>
+
+<br />
+
+
+
+
+# ✍️ Quickstart
 
 
 ```bash
@@ -18,15 +46,19 @@ npm run dev
 Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
 
-## Learn more
 
-To learn more about the technologies used in this site template, see the following resources:
+# 👨‍💻 Tech Stack
+
+Here's a brief high-level overview of the tech stack used.
 
 - [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
 - [Next.js](https://nextjs.org/docs) - the official Next.js documentation
 - [Headless UI](https://headlessui.dev) - the official Headless UI documentation
 
+# 🌟 Tutorials  
+- https://www.youtube.com/watch?v=gSpPtHSELfY 
 
-## Sample Landing Page
 
-<img src="./images/landing_cheetcodes.png" width="500" />
+# 💛
+
+Reminder that *you are great, you are enough, and your presence is valued.* 
