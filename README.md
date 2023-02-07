@@ -4,7 +4,7 @@
   This repository contains the original Cheetcodes website. To be repurposed for any of Cheetcoding needs. 
 </p>
 
-<img src="./images/landing_cheetcodes.png" width="400" />
+<img src="./images/landing_cheetcodes.png" width="600" />
 
 
 ---
