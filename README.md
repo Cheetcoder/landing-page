@@ -1,4 +1,4 @@
-<h1 align="center">Code Elevate</h1>
+<h1 align="center">Cheetcoders</h1>
 
 <p align="center">
   Cohort 4 Landing page
