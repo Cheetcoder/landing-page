@@ -1,7 +1,7 @@
 <h1 align="center">Code Elevate</h1>
 
 <p align="center">
-  This repository contains the original Cheetcodes website. Let's use it to create a Code Elevate landing page.
+  Cohort 4 Landing page
 </p>
 
 <p align="center"> <img src="./images/landing_cheetcodes.png" width="400" /> </p>
